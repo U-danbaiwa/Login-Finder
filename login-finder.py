@@ -130,7 +130,7 @@ def inpt():
 		else:
 			sys.exit()
 		try:
-			b=cya+"[×] Enter ",cyan,"HOSTNAME ",cya,"Example ",red,"https://example.com\n"
+			b=cya+"[×] Enter ",cyan,"HOSTNAME ",cya,"Example ",red,"https://example.com/\n"
 			for line in b:
 				sys.stdout.flush()
 				time.sleep(0.01)
