@@ -2,7 +2,8 @@
 You can find any website login page
 When you try to hack website
 You need to find website login page
-$HOW TO INSTALL
+
+#HOW TO INSTALL
 
 $ pkg update
 
